@@ -1,0 +1,58 @@
+@font-face {
+    font-family: 'sinkin_sans100_thin';
+    src: url('SinkinSans-100Thin-webfont.eot');
+    src: url('SinkinSans-100Thin-webfont.eot?#iefix') format('embedded-opentype'),
+         url('SinkinSans-100Thin-webfont.woff2') format('woff2'),
+         url('SinkinSans-100Thin-webfont.woff') format('woff'),
+         url('SinkinSans-100Thin-webfont.ttf') format('truetype'),
+         url('SinkinSans-100Thin-webfont.svg#sinkin_sans100_thin') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+@font-face 
+{
+    font-family: 'droid_sansregular';
+    src: url('DroidSans-webfont.eot');
+    src: url('DroidSans-webfont.eot?#iefix') format('embedded-opentype'),
+         url('DroidSans-webfont.woff') format('woff'),
+         url('DroidSans-webfont.ttf') format('truetype'),
+         url('DroidSans-webfont.svg#droid_sansregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+h1
+{
+    color: rgb(42, 13, 75);
+    text-align: center;
+    font-family: 'sinkin_sans100_thinGeorgia', 'Times New Roman', Times, serif;   
+    box-shadow: 5px 5px 5px rgb(46, 11, 46);
+    
+}  
+
+h1
+{
+    border-radius: 6px #72543b groove;
+    display:table;
+    margin:auto;
+}
+
+p
+{
+    text-align: center;
+}
+body
+{
+    background-image: url(fond_cv3.png);
+}
+h2
+{
+    color: rgba(59, 20, 20, 0.842)
+}
+ul
+{
+    color: rgb(212, 89, 18);
+    font-style: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
